@@ -9,7 +9,6 @@ O projeto é desenvolvido em **Java com Spring Boot** e segue a arquitetura em c
 
 - Criar tarefas com nome, descrição, prioridade e status de conclusão
 - Listar todas as tarefas
-- Consultar tarefa por ID
 - Atualizar dados de uma tarefa
 - Excluir tarefas
 
