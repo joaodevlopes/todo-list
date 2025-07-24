@@ -34,7 +34,6 @@ O projeto é desenvolvido em **Java com Spring Boot** e segue a arquitetura em c
 - Camadas Separadas (MVC): Controllers cuidam das requisições HTTP, Services da lógica de negócio e Repositories do acesso ao banco de dados.  
 - Princípios SOLID: Classes com responsabilidade única, uso de interfaces e injeção de dependência.  
 - DRY – Don’t Repeat Yourself: Evita duplicações de código e centraliza a lógica reutilizável.  
-- Reutilização e Coesão: Uso de DTOs, validações e estrutura RESTful clara e coesa.
 
 ---
 
