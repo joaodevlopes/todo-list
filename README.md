@@ -41,8 +41,11 @@ cd todo-list/desafio-todolist
 Crie um banco de dados no MySQL com o nome todo_db (ou outro de sua preferência) e atualize o arquivo src/main/resources/application.properties:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/todo_db
+
 spring.datasource.username=seu_usuario
+
 spring.datasource.password=sua_senha
+
 spring.jpa.hibernate.ddl-auto=update
 
 3. Executar a aplicação:
